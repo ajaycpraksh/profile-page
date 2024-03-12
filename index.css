@@ -1,0 +1,58 @@
+.profile-stats {
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px ;
+    margin-left: 500%;
+    margin-bottom: 300%;
+    align-items: center;
+    font-weight: bold;
+  }
+  .dp{
+    margin-left: 40%;
+  }
+  .aj{
+    margin-left: 8%;
+  }
+
+  
+
+  .profile-stat {
+    padding:  100px;
+    text-align: center;
+    font: bold;
+    font-size: xx-large;
+  }
+  .edit{
+    display: flex;
+    justify-content:space-evenly;
+
+  }
+  .container {
+    max-width: 93.5rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5rem 5rem;
+    padding-bottom: 3rem;
+  }
+  
+  .gallery-item {
+    position: relative;
+    flex: 1 0 22rem;
+    margin: 0.1em;
+    color: #fff;
+  }
+  
+ 
+  .gallery-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  
